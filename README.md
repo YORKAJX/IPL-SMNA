@@ -1,2 +1,1 @@
-# IPL-SMNA
-s4074816 
+# IPL Social Network Analysis Project
